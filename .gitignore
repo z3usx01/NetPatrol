@@ -136,6 +136,11 @@ ENV/
 env.bak/
 venv.bak/
 
+__pycache__/
+*.pyc
+venv/
+wifi_scan_results.csv
+
 # Spyder project settings
 .spyderproject
 .spyproject
